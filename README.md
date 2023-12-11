@@ -38,5 +38,7 @@ Currently a student at Zip Code Wilmington.</div>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<img src="https://dcbadge.vercel.app/api/shield/837897149617406002" />
+
 
 Credits to Profilinator.
