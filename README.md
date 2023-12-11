@@ -1,8 +1,8 @@
-### <div align="center">Hi I am Hyunji, an aspiring software developer.
+### Hi! My name is Hyunji, an aspiring software developer.
 Currently a student at Zip Code Wilmington.</div>  
   
 
-- 🌱 I’m currently learning Java, Spring Boot, and SQL  
+- 🌱 I’m currently learning Spring Boot and SQL  
   
 
 <br/>  
@@ -32,14 +32,10 @@ Currently a student at Zip Code Wilmington.</div>
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/hyunjialee" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
+
 <a href="https://linkedin.com/in/hyunjialee" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
 
