@@ -2,7 +2,7 @@
 Currently a student at Zip Code Wilmington.</div>  
   
 
-- 🌱 I’m currently polishing my skills in Spring Boot and SQL  
+- 🌱 I’m currently polishing my skills in Spring and SQL  
   
 
 <br/>  
