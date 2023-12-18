@@ -1,4 +1,4 @@
-### Hi! My name is Hyunji, an aspiring software developer.
+### Hi! My name is Jia, an aspiring software developer.
 Currently a student at Zip Code Wilmington.</div>  
   
 
