@@ -2,7 +2,8 @@
 Currently a student at Zip Code Wilmington.</div>  
   
 
-- 🌱 I’m currently polishing my skills in Spring and SQL  
+- 🌱 I’m currently polishing my skills in Spring and SQL
+- Working on my passion project: MindfulMate application (currently private repo)
   
 
 <br/>  
