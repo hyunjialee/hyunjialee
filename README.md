@@ -3,7 +3,8 @@ Currently a student at Zip Code Wilmington.</div>
   
 
 - 🌱 I’m currently polishing my skills in Spring and SQL
-- Working on my passion project: MindfulMate application (currently private repo)
+- Working on my passion project: MindfulMate application
+- Working on my group project: Zip Doc
   
 
 <br/>  
