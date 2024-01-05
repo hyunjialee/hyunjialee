@@ -4,7 +4,7 @@ Currently a student at Zip Code Wilmington.</div>
 
 - 🌱 I’m currently polishing my skills in Spring and SQL
 - Working on my passion project: MindfulMate application
-- Working on my group project: Zip Doc
+- Working on my group project: Zip Doc <a href="[https://www.java.com/](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)" target="_blank">
   
 
 <br/>  
