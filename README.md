@@ -2,7 +2,7 @@
 Currently a student at Zip Code Wilmington.</div>  
   
 
-- 🌱 I’m currently polishing my skills in Spring and SQL
+- 🌱 I’m currently polishing my skills in Spring, SQL, Javascript, and React
 - Working on my passion project: [MindfulMate](https://github.com/hyunjialee/MindfulMateApp)
 - Working on my group project: [ZipDoc](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)
 
