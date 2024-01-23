@@ -9,6 +9,20 @@ Currently a student at Zip Code Wilmington.</div>
 <br/>  
 
 
+## Connect with me  
+
+My Email: hyjialee@gmail.com
+<div>
+
+<a href="https://linkedin.com/in/hyunjialee" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<img src="https://dcbadge.vercel.app/api/shield/837897149617406002" />
+
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -48,15 +62,6 @@ Currently a student at Zip Code Wilmington.</div>
 <br/>  
 
 
-## Connect with me  
-<div>
-
-
-<a href="https://linkedin.com/in/hyunjialee" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<img src="https://dcbadge.vercel.app/api/shield/837897149617406002" />
 
 
 Credits to Profilinator.
