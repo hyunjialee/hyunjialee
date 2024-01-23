@@ -1,5 +1,6 @@
 ### Hi! My name is Jia, an aspiring software developer.
-Currently a student at Zip Code Wilmington.</div>  
+Graduated from Lagrange College with a BA in Psychological Science 
+<p>Completed an intense bootcamp, Zip Code Wilmington, spending over 1000 hours coding in 12 weeks.</p></div>  
   
 
 - 🌱 I’m currently polishing my skills in Spring, SQL, Javascript, and React
