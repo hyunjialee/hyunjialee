@@ -1,12 +1,11 @@
-### Hi! My name is Jia, an aspiring software developer.
+## Hi! My name is Jia, an aspiring software developer.
 Graduated from Lagrange College with a BA in Psychological Science 
-<p>Completed an intense bootcamp, Zip Code Wilmington, spending over 1000 hours coding in 12 weeks.</p></div>  
+<p>Completed an intense coding bootcamp, Zip Code Wilmington, spending over 1000 hours coding in 12 weeks</p></div>  
   
 
 - 🌱 I’m currently polishing my skills in Spring, SQL, Javascript, and React
 - Working on my passion project: [MindfulMate](https://github.com/hyunjialee/MindfulMateApp)
-- Working on my group project: [ZipDoc](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)
-
+- Check out my group project: [ZipDocs](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)
 <br/>  
 
 
