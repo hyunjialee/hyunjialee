@@ -1,6 +1,6 @@
 ## Hi! My name is Jia, an aspiring software developer.
 Graduated from Lagrange College with a BA in Psychological Science 
-<p>Completed an intense coding bootcamp, Zip Code Wilmington, spending over 1000 hours coding in 12 weeks</p></div>  
+<p>Completed an intense coding bootcamp, Zip Code Wilmington. I have hands on-experience with developing full-stack applications utiliizing Java, Spring Boot, Javascript, React, and MySQL
   
 
 - 🌱 I’m currently polishing my skills in Spring, SQL, Javascript, and React
