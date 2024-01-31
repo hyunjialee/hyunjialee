@@ -5,9 +5,14 @@ Graduated from Lagrange College with a BA in Psychological Science
 
 - 🌱 I’m currently polishing my skills in Spring, SQL, Javascript, and React
 - Working on my passion project: [MindfulMate](https://github.com/hyunjialee/MindfulMateApp)
-- Check out my group project: [ZipDocs](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)
-<br/>  
+<br/>
 
+
+## Check out my group project: [ZipDocs](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)
+
+<p>
+  <img src="https://github.com/hyunjialee/hyunjialee/assets/148006117/eca4aa75-3e41-4b9d-9eb2-2d6b9b0427ab" alt="ZipDocs Screenshot">
+</p>
 
 ## Connect with me  
 
