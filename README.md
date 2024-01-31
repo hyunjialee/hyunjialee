@@ -9,7 +9,7 @@ Graduated from Lagrange College with a BA in Psychological Science
 
 
 ## Check out my group project: [ZipDocs](https://github.com/ZCW9-2-Peponapis/FinalGroupProjects)
-
+<p>ZipDocs is a document library appliction. Allows users to view, edit, create, delete, and share documents.<p/>
 <p>
   <img src="https://github.com/hyunjialee/hyunjialee/assets/148006117/eca4aa75-3e41-4b9d-9eb2-2d6b9b0427ab" alt="ZipDocs Screenshot">
 </p>
